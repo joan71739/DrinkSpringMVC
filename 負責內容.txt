@@ -1,3 +1,0 @@
-此專案使用SpringMVC框架
-
-DrinkSpringMVC\DrinkSpringMvc\src\tw\store
